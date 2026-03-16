@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💬 Ask me about: **💡 ExpressJs, NestJs, ReactJs, Node.js and VueJs**
+- 💬 Ask me about: **💡 Laravel, ExpressJs, NestJs, ReactJs, Node.js and VueJs**
 
  **<h3 align="left">GitHub Stats</h3>**
 
